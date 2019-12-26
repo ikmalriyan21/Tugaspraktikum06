@@ -50,10 +50,10 @@ for item in nilai:
 print("========================================================================")
 
 
--jika kalau sudah memasukan code tersebut di software phycram(phyton) silahkan Di Run silahkan kelik ctrl+shift+F10 atau klik kanan Run
+-Jika sudah memasukan code tersebut di software phycram(phyton) silahkan Di Run silahkan kelik ctrl+shift+F10 atau klik kanan Run
 Berikut disini adalah gambaran input outputnya.
 
--screenshot iput
+-screenshot input
  
 
 
