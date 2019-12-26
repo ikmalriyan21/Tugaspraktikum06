@@ -73,7 +73,7 @@ Berikut disini adalah gambaran input outputnya.
 
 
 
-![output](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/RUN%20hasil.png)
+![output](https://github.com/ikmalriyan21/Tugaspraktikum06/blob/master/Gambar/praktikum6%20(3).png)
 
 
 
