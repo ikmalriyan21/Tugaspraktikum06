@@ -83,7 +83,7 @@ Berikut disini adalah gambaran input outputnya.
 
 
 
-![flowchart](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/tugas6flowchart.PNG)
+![flowchart](https://github.com/ikmalriyan21/Tugaspraktikum06/blob/master/Gambar/flowchart%203.png)
 
 
 
